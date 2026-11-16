@@ -3,7 +3,7 @@
 
 ---
 
-## Chapter 1:Best Friends
+## Chapter 1:Best Friends(page 3-8)
 ***The problem (data transmission):** How to transmit data from one end to another with specific barriers
 
 ***The mechanism (Codes):** We can convert data like speech into signals as morse code, that consist of dots and dashes with a time interval , allowing sender to send data without speech  or text.
